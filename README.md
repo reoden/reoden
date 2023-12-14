@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true&theme=nord">]()
+[<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true&theme=nord">]()
