@@ -15,17 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://github.com/Reoden" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Reoden&title_color=333&text_color=777" alt="Reoden's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
-  </a>
-</p>
-
-<div align="center">
-     <a href="https://github.com/Reoden" class="rich-diff-level-one">
-    	<img  src="https://github-readme-streak-stats.herokuapp.com?user=Reoden&date_format=M%20j%5B%2C%20Y%5D" /> 
-    </a>
-</div>
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thallium&show_icons=true&theme=nord">]()
