@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/LYNBZ1018" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=LYNBZ1018&title_color=333&text_color=777" alt="LYNBZ1018's Stats" >
+  <a href="https://github.com/Reoden" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Reoden&title_color=333&text_color=777" alt="Reoden's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-     <a href="https://github.com/LYNBZ1018" class="rich-diff-level-one">
-    	<img  src="https://github-readme-streak-stats.herokuapp.com?user=LYNBZ1018&date_format=M%20j%5B%2C%20Y%5D" /> 
+     <a href="https://github.com/Reoden" class="rich-diff-level-one">
+    	<img  src="https://github-readme-streak-stats.herokuapp.com?user=Reoden&date_format=M%20j%5B%2C%20Y%5D" /> 
     </a>
 </div>
