@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Reoden&show_icons=true&theme=nord">]()
+<!-- [<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Reoden&show_icons=true&theme=nord">]() -->
+[![Reoden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reoden&count_private=true&show_icons=true&theme=shadow_blue)](https://github.com/reoden)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reoden&theme=shadow_blue)](https://github.com/reoden)
