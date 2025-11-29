@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <!-- [<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Reoden&show_icons=true&theme=nord">]() -->
 <!-- [![Reoden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reoden&count_private=true&show_icons=true&theme=shadow_blue)](https://github.com/reoden) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reoden&theme=shadow_blue)](https://github.com/reoden) -->
-
 ## Glad to see you here!
 
 Love interacting with the community, sharing knowledge, and learning new things.
@@ -32,13 +30,15 @@ Love interacting with the community, sharing knowledge, and learning new things.
 ## Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reoden&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoden&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoden&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" /> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reoden&theme=shadow_blue)](https://github.com/reoden)
 
+<!--
 ## 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
-<!--
+
 ## 👯 Check out my recent followers
 {{range followers 10}}
 - [{{.Login}}]({{.URL}})
