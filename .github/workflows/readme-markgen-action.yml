@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1,13 * * *"
+  push:
+    branches:
+      - "master"
+
+jobs:
+  markgen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - uses: reoden/readme-markgen-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          commit_message: Update generated README
+          branch: master
+          commit_user_name: reoden 
+          commit_user_email: staraino_o@163.com
+          commit_author: reoden <staraino_o@163.com>
