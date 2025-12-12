@@ -29,7 +29,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 #### Languages & Frameworks I use
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,lua,cpp,docker,redis,neovim,progres,mysql,mongo,kafka,rabbitmq)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,lua,cpp,docker,redis,neovim,postgres,mysql,mongo,kafka,rabbitmq)
 
 
 #### Statistics
