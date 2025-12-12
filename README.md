@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 <!--
 **reoden/reoden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,12 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 👨 I’m Reoden.
 - 😄 Pronouns: he/him/his.
 
-## Statistics
+#### Languages & Frameworks I use
+
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,lua,cpp,docker,redis,neovim,progres,mysql,mongo,kafka,rabbitmq)
+
+
+#### Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reoden&theme=github_dark" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoden&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" /> -->
