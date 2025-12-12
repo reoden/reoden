@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 
 Love interacting with the community, sharing knowledge, and learning new things.
 
-**Talking about personal stuff:**
-
-- 👨 I’m Reoden.
-- 😄 Pronouns: he/him/his.
+### 👀 ☆ Visit counter :
+![visit counter onihilist](https://count.getloli.com/@onihilist?name=onihilist&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
 
 #### Languages & Frameworks I use
 
