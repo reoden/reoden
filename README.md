@@ -21,9 +21,9 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) (a day ago)
-- [reoden/resume-ng](https://github.com/reoden/resume-ng) (2 days ago)
-- [reoden/gTimerWheel](https://github.com/reoden/gTimerWheel) (2 days ago)
+- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers. (a day ago)
+- [reoden/gTimerWheel](https://github.com/reoden/gTimerWheel) - a lightweight, high-performance hierarchical timing wheel for Go (2 days ago)
+- [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (2 days ago)
 
 <!--
 ## 👯 Check out my recent followers
