@@ -6,7 +6,7 @@ on:
     - cron: "0 1,13 * * *"
   push:
     branches:
-      - "master"
+      - "main"
 
 jobs:
   markgen:
@@ -26,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
-          branch: master
+          branch: main
           commit_user_name: Reoden
           commit_user_email: reodenx@gmail.com
           commit_author: Reoden<reodenx@gmail.com>
