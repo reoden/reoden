@@ -1,20 +1,5 @@
 #### Hi there 👋
 
-<!--
-**reoden/reoden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- [<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Reoden&show_icons=true&theme=nord">]() -->
 <!-- [![Reoden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reoden&count_private=true&show_icons=true&theme=shadow_blue)](https://github.com/reoden) -->
 
@@ -34,24 +19,26 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=reoden&show_icons=true&theme=algolia&hide=contribs,prs" alt="Reoden's github stats" /> 
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
-<!--
+
 ## 👷 Check out what I'm currently working on
-{{range recentContributions 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
-{{- end}}
+- [reoden/reoden](https://github.com/reoden/reoden) (a few seconds ago)
+- [reoden/reoden](https://github.com/reoden/reoden) (18 minutes ago)
+- [reoden/reoden](https://github.com/reoden/reoden) (19 minutes ago)
 
 ## 👯 Check out my recent followers
-{{range followers 10}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+- [trinhminhtriet](https://github.com/trinhminhtriet)
+- [Patricky-Tau](https://github.com/Patricky-Tau)
 
 ## ⭐ Recent stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
+- [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) (a day ago)
+- [nikolovlazar/dotfiles](https://github.com/nikolovlazar/dotfiles) (2 days ago)
+- [zllangct/rockgo](https://github.com/zllangct/rockgo) (2 days ago)
+- [cherry-game/cherry](https://github.com/cherry-game/cherry) (2 days ago)
+- [egametang/ET](https://github.com/egametang/ET) (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
--->
+- [[update-temp][Yoka]临时上传产出内容，待整理](https://github.com/reoden/resume-ng/pull/1) on [reoden/resume-ng](https://api.github.com/repos/reoden/resume-ng) (3 months ago)
+- [20251222 cf105790k_reoden.rs](https://github.com/Yawn-Sean/Daily_CF_Problems/pull/14311) on [Yawn-Sean/Daily_CF_Problems](https://api.github.com/repos/Yawn-Sean/Daily_CF_Problems) (4 months ago)
+- [20251208 Reoden&#x27;s submission for CF106039J](https://github.com/Yawn-Sean/Daily_CF_Problems/pull/14218) on [Yawn-Sean/Daily_CF_Problems](https://api.github.com/repos/Yawn-Sean/Daily_CF_Problems) (4 months ago)
+- [[feature](user): Implement User Registration, Login and Captcha Functionality](https://github.com/reoden/go-NFT/pull/1) on [reoden/go-NFT](https://api.github.com/repos/reoden/go-NFT) (4 months ago)
+- [20241113 reoden&#x27;s submissions](https://github.com/Yawn-Sean/Daily_CF_Problems/pull/8353) on [Yawn-Sean/Daily_CF_Problems](https://api.github.com/repos/Yawn-Sean/Daily_CF_Problems) (a year ago)
