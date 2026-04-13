@@ -1,0 +1,16 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Generate README from template",
+  "main": "generate-readme.js",
+  "scripts": {
+    "start": "node generate-readme.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "handlebars": "^4.7.8",
+    "moment": "^2.30.1",
+    "fs": "^0.0.1",
+    "path": "^0.12.7"
+  }
+}

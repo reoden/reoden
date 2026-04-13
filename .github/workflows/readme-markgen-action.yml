@@ -12,21 +12,23 @@ jobs:
   markgen:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v4
 
-      - uses: reoden/readme-markgen-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
         with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+          node-version: '18'
+
+      - run: npm install
+
+      - run: node generate-readme.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: reoden
 
       - uses: stefanzweifel/git-auto-commit-action@v7
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
           branch: main
           commit_user_name: Reoden
           commit_user_email: reodenx@gmail.com
-          commit_author: Reoden<reodenx@gmail.com>
+          commit_author: Reoden <reodenx@gmail.com>
