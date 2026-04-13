@@ -21,21 +21,21 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-{{range recentContributions 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
-{{- end}}
+{{#each recentContributions}}
+- [{{Repo.Name}}]({{Repo.URL}}){{#if Repo.Description}} - {{Repo.Description}}{{/if}} ({{humanize OccurredAt}})
+{{/each}}
 
 ## 👯 Check out my recent followers
-{{range followers 10}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+{{#each followers}}
+- [{{Login}}]({{URL}})
+{{/each}}
 
 ## ⭐ Recent stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
+{{#each recentStars}}
+- [{{Repo.Name}}]({{Repo.URL}}){{#if Repo.Description}} - {{Repo.Description}}{{/if}} ({{humanize StarredAt}})
+{{/each}}
 
 ## 🔨 Latest Pull Requests I published
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{#each recentPullRequests}}
+- [{{Title}}]({{URL}}) on [{{Repo.Name}}]({{Repo.URL}}) ({{humanize CreatedAt}})
+{{/each}}
