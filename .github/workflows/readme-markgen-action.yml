@@ -22,7 +22,7 @@ jobs:
 
       - run: node generate-readme.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           USERNAME: reoden
 
       - uses: stefanzweifel/git-auto-commit-action@v7
@@ -32,3 +32,5 @@ jobs:
           commit_user_name: Reoden
           commit_user_email: reodenx@gmail.com
           commit_author: Reoden <reodenx@gmail.com>
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
