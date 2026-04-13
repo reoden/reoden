@@ -32,10 +32,8 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 #### Statistics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reoden&theme=github_dark" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoden&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" /> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reoden&theme=shadow_blue)](https://github.com/reoden)
-
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=reoden&show_icons=true&theme=algolia&hide=contribs,prs" alt="Reoden's github stats" /> 
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 <!--
 ## 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
