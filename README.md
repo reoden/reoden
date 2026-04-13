@@ -21,13 +21,15 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-- [reoden/reoden](https://github.com/reoden/reoden) (a few seconds ago)
-- [reoden/reoden](https://github.com/reoden/reoden) (2 minutes ago)
-- [reoden/reoden](https://github.com/reoden/reoden) (20 minutes ago)
+- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) (a day ago)
+- [reoden/resume-ng](https://github.com/reoden/resume-ng) (2 days ago)
+- [reoden/gTimerWheel](https://github.com/reoden/gTimerWheel) (2 days ago)
 
+<!--
 ## 👯 Check out my recent followers
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Patricky-Tau](https://github.com/Patricky-Tau)
+-->
 
 ## ⭐ Recent stars
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) (a day ago)
