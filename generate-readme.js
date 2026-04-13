@@ -22,6 +22,7 @@ async function getData() {
   const contributions = eventData
     .filter(e => e.type === 'PushEvent')
     .filter(e => e.repo.name !== currentRepo)
+    .filter(e => !e.repo.private)
     .reduce((acc, e) => {
       // Deduplicate by repo name
       if (!acc.find(item => item.Repo.Name === e.repo.name)) {
@@ -39,10 +40,14 @@ async function getData() {
   const followersData = followers.data.map(f => ({ Login: f.login, URL: f.html_url }));
 
   // Recent stars (watch events)
-  const stars = eventData.filter(e => e.type === 'WatchEvent').slice(0, 5).map(e => ({
-    Repo: { Name: e.repo.name, URL: `https://github.com/${e.repo.name}`, Description: '' },
-    StarredAt: e.created_at
-  }));
+  const stars = eventData
+    .filter(e => e.type === 'WatchEvent')
+    .filter(e => !e.repo.private)
+    .slice(0, 5)
+    .map(e => ({
+      Repo: { Name: e.repo.name, URL: `https://github.com/${e.repo.name}`, Description: '' },
+      StarredAt: e.created_at
+    }));
 
   // Recent pull requests
   const prs = await octokit.search.issuesAndPullRequests({ q: `author:${username} type:pr`, per_page: 5, sort: 'created', order: 'desc' });
