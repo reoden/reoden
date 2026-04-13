@@ -26,6 +26,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           USERNAME: reoden
+          CURRENT_REPO: ${{ github.repository }}
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:

@@ -25,10 +25,12 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - [{{Repo.Name}}]({{Repo.URL}}){{#if Repo.Description}} - {{Repo.Description}}{{/if}} ({{humanize OccurredAt}})
 {{/each}}
 
+<!--
 ## 👯 Check out my recent followers
 {{#each followers}}
 - [{{Login}}]({{URL}})
 {{/each}}
+-->
 
 ## ⭐ Recent stars
 {{#each recentStars}}
