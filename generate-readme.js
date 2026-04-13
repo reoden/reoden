@@ -19,21 +19,33 @@ async function getData() {
   const eventData = events.data;
 
   // Recent contributions (push events)
-  const contributions = eventData
+  const uniqueRepos = eventData
     .filter(e => e.type === 'PushEvent')
     .filter(e => e.repo.name !== currentRepo)
-    .filter(e => !e.repo.private)
     .reduce((acc, e) => {
-      // Deduplicate by repo name
-      if (!acc.find(item => item.Repo.Name === e.repo.name)) {
-        acc.push({
-          Repo: { Name: e.repo.name, URL: `https://github.com/${e.repo.name}`, Description: '' },
-          OccurredAt: e.created_at
-        });
+      if (!acc.find(item => item.name === e.repo.name)) {
+        acc.push({ name: e.repo.name, url: `https://github.com/${e.repo.name}`, occurredAt: e.created_at });
       }
       return acc;
-    }, [])
-    .slice(0, 3);
+    }, []);
+
+  // Filter out private repos
+  const contributions = [];
+  for (const repo of uniqueRepos.slice(0, 10)) { // Check up to 10 repos to avoid rate limits
+    try {
+      const repoDetails = await octokit.repos.get({ owner: repo.name.split('/')[0], repo: repo.name.split('/')[1] });
+      if (!repoDetails.data.private) {
+        contributions.push({
+          Repo: { Name: repo.name, URL: repo.url, Description: repoDetails.data.description || '' },
+          OccurredAt: repo.occurredAt
+        });
+      }
+    } catch (error) {
+      // If can't access repo, skip it (likely private or no permission)
+      console.log(`Skipping repo ${repo.name}: ${error.message}`);
+    }
+  }
+  contributions.splice(3); // Keep only 3
 
   // Followers
   const followers = await octokit.users.listFollowersForUser({ username, per_page: 10 });
