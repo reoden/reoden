@@ -14,7 +14,7 @@ async function getData() {
   const octokit = new Octokit({ auth: token });
 
   // Get user events
-  const events = await octokit.activity.listEventsForAuthenticatedUser({ per_page: 100 });
+  const events = await octokit.activity.listEventsForAuthenticatedUser({ username, per_page: 100 });
   const eventData = events.data;
 
   // Recent contributions (push events)
