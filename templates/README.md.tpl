@@ -35,7 +35,9 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - [{{Repo.Name}}]({{Repo.URL}}){{#if Repo.Description}} - {{Repo.Description}}{{/if}} ({{humanize StarredAt}})
 {{/each}}
 
+<!--
 ## 🔨 Latest Pull Requests I published
 {{#each recentPullRequests}}
 - [{{Title}}]({{URL}}) on [{{Repo.Name}}]({{Repo.URL}}) ({{humanize CreatedAt}})
 {{/each}}
+-->
