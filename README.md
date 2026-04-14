@@ -21,9 +21,9 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers. (an hour ago)
-- [reoden/gTimerWheel](https://github.com/reoden/gTimerWheel) - a lightweight, high-performance hierarchical timing wheel for Go (2 days ago)
-- [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (2 days ago)
+- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers. (14 hours ago)
+- [reoden/gTimerWheel](https://github.com/reoden/gTimerWheel) - a lightweight, high-performance hierarchical timing wheel for Go (3 days ago)
+- [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (3 days ago)
 
 <!--
 ## 👯 Check out my recent followers
@@ -32,11 +32,11 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) (a day ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (9 hours ago)
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10 hours ago)
+- [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) (2 days ago)
 - [nikolovlazar/dotfiles](https://github.com/nikolovlazar/dotfiles) (2 days ago)
 - [zllangct/rockgo](https://github.com/zllangct/rockgo) (2 days ago)
-- [cherry-game/cherry](https://github.com/cherry-game/cherry) (2 days ago)
-- [egametang/ET](https://github.com/egametang/ET) (2 days ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
