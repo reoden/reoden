@@ -21,9 +21,9 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers. (a day ago)
-- [reoden/gTimerWheel](https://github.com/reoden/gTimerWheel) - a lightweight, high-performance hierarchical timing wheel for Go (3 days ago)
-- [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (3 days ago)
+- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers. (2 days ago)
+- [reoden/gTimerWheel](https://github.com/reoden/gTimerWheel) - a lightweight, high-performance hierarchical timing wheel for Go (4 days ago)
+- [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (4 days ago)
 
 <!--
 ## 👯 Check out my recent followers
@@ -32,11 +32,11 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (20 hours ago)
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (20 hours ago)
-- [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) (2 days ago)
+- [cloudwu/skynet](https://github.com/cloudwu/skynet) (10 hours ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (a day ago)
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (a day ago)
+- [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) (3 days ago)
 - [nikolovlazar/dotfiles](https://github.com/nikolovlazar/dotfiles) (3 days ago)
-- [zllangct/rockgo](https://github.com/zllangct/rockgo) (3 days ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
