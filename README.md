@@ -32,11 +32,11 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [cloudwu/skynet](https://github.com/cloudwu/skynet) (a day ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (2 days ago)
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (2 days ago)
+- [cloudwu/skynet](https://github.com/cloudwu/skynet) (2 days ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (3 days ago)
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (3 days ago)
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) (4 days ago)
-- [nikolovlazar/dotfiles](https://github.com/nikolovlazar/dotfiles) (4 days ago)
+- [nikolovlazar/dotfiles](https://github.com/nikolovlazar/dotfiles) (5 days ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
