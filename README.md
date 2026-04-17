@@ -32,10 +32,10 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) (2 hours ago)
-- [cloudwu/skynet](https://github.com/cloudwu/skynet) (2 days ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (3 days ago)
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (3 days ago)
+- [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) (12 hours ago)
+- [cloudwu/skynet](https://github.com/cloudwu/skynet) (3 days ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (4 days ago)
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (4 days ago)
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) (5 days ago)
 
 <!--
