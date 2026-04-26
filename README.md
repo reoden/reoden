@@ -34,9 +34,9 @@ Love interacting with the community, sharing knowledge, and learning new things.
 ## ⭐ Recent stars
 - [lonng/nano](https://github.com/lonng/nano) (9 days ago)
 - [duanhf2012/origin](https://github.com/duanhf2012/origin) (9 days ago)
-- [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) (9 days ago)
-- [cloudwu/skynet](https://github.com/cloudwu/skynet) (11 days ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (12 days ago)
+- [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) (10 days ago)
+- [cloudwu/skynet](https://github.com/cloudwu/skynet) (12 days ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (13 days ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
