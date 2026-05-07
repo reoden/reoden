@@ -22,8 +22,8 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 ## 👷 Check out what I'm currently working on
 - [reoden/dotfile](https://github.com/reoden/dotfile) (8 days ago)
-- [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (13 days ago)
-- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers. (23 days ago)
+- [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (14 days ago)
+- [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers. (24 days ago)
 
 <!--
 ## 👯 Check out my recent followers
@@ -32,8 +32,8 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [lonng/nano](https://github.com/lonng/nano) (19 days ago)
-- [duanhf2012/origin](https://github.com/duanhf2012/origin) (19 days ago)
+- [lonng/nano](https://github.com/lonng/nano) (20 days ago)
+- [duanhf2012/origin](https://github.com/duanhf2012/origin) (20 days ago)
 - [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) (20 days ago)
 - [cloudwu/skynet](https://github.com/cloudwu/skynet) (22 days ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (23 days ago)
