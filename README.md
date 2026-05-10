@@ -21,7 +21,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-- [reoden/dotfile](https://github.com/reoden/dotfile) (11 days ago)
+- [reoden/dotfile](https://github.com/reoden/dotfile) (12 days ago)
 - [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (17 days ago)
 - [reoden/go-concurrency-exercises](https://github.com/reoden/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers. (a month ago)
 
@@ -34,8 +34,8 @@ Love interacting with the community, sharing knowledge, and learning new things.
 ## ⭐ Recent stars
 - [lonng/nano](https://github.com/lonng/nano) (23 days ago)
 - [duanhf2012/origin](https://github.com/duanhf2012/origin) (23 days ago)
-- [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) (23 days ago)
-- [cloudwu/skynet](https://github.com/cloudwu/skynet) (25 days ago)
+- [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) (24 days ago)
+- [cloudwu/skynet](https://github.com/cloudwu/skynet) (a month ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (a month ago)
 
 <!--
