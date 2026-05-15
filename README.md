@@ -21,19 +21,18 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-- [reoden/dotfile](https://github.com/reoden/dotfile) (16 days ago)
+- [reoden/dotfile](https://github.com/reoden/dotfile) (17 days ago)
 - [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (22 days ago)
 
 <!--
 ## 👯 Check out my recent followers
 - [trinhminhtriet](https://github.com/trinhminhtriet)
-- [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [Patricky-Tau](https://github.com/Patricky-Tau)
 -->
 
 ## ⭐ Recent stars
-- [yinxiangpingfan/OnCallAgent](https://github.com/yinxiangpingfan/OnCallAgent) (21 hours ago)
+- [yinxiangpingfan/OnCallAgent](https://github.com/yinxiangpingfan/OnCallAgent) (a day ago)
 - [lonng/nano](https://github.com/lonng/nano) (a month ago)
 - [duanhf2012/origin](https://github.com/duanhf2012/origin) (a month ago)
 - [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) (a month ago)
