@@ -21,7 +21,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-- [reoden/dotfile](https://github.com/reoden/dotfile) (21 days ago)
+- [reoden/dotfile](https://github.com/reoden/dotfile) (22 days ago)
 - [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (a month ago)
 
 <!--
