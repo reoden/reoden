@@ -22,7 +22,6 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 ## 👷 Check out what I'm currently working on
 - [reoden/dotfile](https://github.com/reoden/dotfile) (25 days ago)
-- [reoden/reoden.nvim](https://github.com/reoden/reoden.nvim) - A launch point for your personal nvim configuration (a month ago)
 
 <!--
 ## 👯 Check out my recent followers
@@ -31,7 +30,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [yinxiangpingfan/OnCallAgent](https://github.com/yinxiangpingfan/OnCallAgent) (9 days ago)
+- [yinxiangpingfan/OnCallAgent](https://github.com/yinxiangpingfan/OnCallAgent) (10 days ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
