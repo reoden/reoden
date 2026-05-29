@@ -21,7 +21,6 @@ Love interacting with the community, sharing knowledge, and learning new things.
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=reoden&layout=compact&theme=algolia" />
 
 ## 👷 Check out what I'm currently working on
-- [reoden/dotfile](https://github.com/reoden/dotfile) (a month ago)
 
 <!--
 ## 👯 Check out my recent followers
@@ -30,7 +29,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [yinxiangpingfan/OnCallAgent](https://github.com/yinxiangpingfan/OnCallAgent) (14 days ago)
+- [yinxiangpingfan/OnCallAgent](https://github.com/yinxiangpingfan/OnCallAgent) (15 days ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
