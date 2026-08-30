@@ -29,7 +29,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [openai/codex](https://github.com/openai/codex) (an hour ago)
+- [openai/codex](https://github.com/openai/codex) (12 hours ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
