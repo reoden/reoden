@@ -29,8 +29,8 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [Tencent/Tendis](https://github.com/Tencent/Tendis) (11 days ago)
-- [openai/codex](https://github.com/openai/codex) (12 days ago)
+- [Tencent/Tendis](https://github.com/Tencent/Tendis) (12 days ago)
+- [openai/codex](https://github.com/openai/codex) (13 days ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
