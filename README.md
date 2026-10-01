@@ -29,8 +29,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 -->
 
 ## ⭐ Recent stars
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) (2 days ago)
-- [Tencent/Tendis](https://github.com/Tencent/Tendis) (a month ago)
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) (3 days ago)
 
 <!--
 ## 🔨 Latest Pull Requests I published
